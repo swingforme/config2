@@ -8,7 +8,8 @@ spring:
           username: swingforme@126.com
           password: TEX362xf
           default-label: master
-          search-paths: src/main/resources
+          search-paths: src/main/resources/pay,src/main/resources/online
+      name:
 
 management:
   endpoints:
