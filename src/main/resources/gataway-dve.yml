@@ -1,0 +1,9 @@
+online:
+  service-id: online
+  path: /read-service/
+pay:
+  service-id: pay
+  path: /pay-service/
+bookoa:
+  service-id: bookoa
+  path: /bookoa-service/
